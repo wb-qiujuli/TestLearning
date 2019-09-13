@@ -29,6 +29,6 @@ public class Lesson01 {
             j++;
         }
         System.out.println("方法四：1+2+...10的和为"+sum4);
-
+       //测试修改
     }
 }
